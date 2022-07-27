@@ -303,8 +303,43 @@ Singapore 3=vmess,165.232.173.140,80,username=147503c4-a0a7-4d4a-b29c-63b906112a
 
 🇻🇳 HN Vip = vmess,ghn.sos4g.xyz,80,username=a609b1d6-8777-4480-a590-749eeb0c789e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/sos4g.xyz,ws-headers=Host:dl.kgvn.garenanow.com
 
+🇻🇳VN 01 [Nền IBOLERO]=vmess,vn01.ibolero.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:ibolero.vn
+🇻🇳VN 01 [Nền VNMB]=vmess,vn01.vnmb.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:vietnamobile.com.vn
+🇻🇳Hà Nội 01 [Nền Tiktok]=vmess,hn01.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇻🇳Hà Nội 02 [Nền Tiktok]=vmess,hn02.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇻🇳Hà Nội 03 [Nền Tiktok]=vmess,hn03.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇻🇳Hà Nội 04 [Nền LQ]=vmess,hn04.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+🇻🇳Hà Nội 05 [Nền LQ]=vmess,hn05.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+🇻🇳Hà Nội 06 [Nền LQ]=vmess,hn06.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+🇻🇳HCM 01 [Nền Tiktok]=vmess,hcm01.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇻🇳HCM 02 [Nền LQ]=vmess,hcm02.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+🇸🇬Singapore 01 [Nền Tiktok]=vmess,sgp01.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇸🇬Singapore 02 [Nền Tiktok]=vmess,sgp02.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇸🇬Singapore 03 [Nền LQ]=vmess,sgp03.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+🇸🇬Singapore 04 [Nền LQ]=vmess,sgp04.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+🇯🇵Jp Eimi Fukada 01 [Nền Tiktok]=vmess,jp01.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:4gsieure.net.ipstatp.com
+🇯🇵Jp Aizawa Minami 02 [Nền LQ]=vmess,jp02.4gsieure.net,80,username=e5a9990a-b37f-438b-9a08-97520d2ae099,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/4gsieure.net,ws-headers=Host:dl.kgvn.garenanow.com
+
+
+
+
+
+#DVS
+🇻🇳【Test DDOS】=vmess,103.242.54.47,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇻🇳【LQ-HN2】=vmess,HN-VIP2.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇻🇳【LQ-HN3】=vmess,HN-VIP3.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇸🇬【SING 1】=vmess,SING-V1.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇸🇬【SING 3】=vmess,SING-V3.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇸🇬【SING 5】=vmess,SING-V5.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇸🇬【SING 6】=vmess,SING-V6.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇸🇬【SING 7】=vmess,SING-V7.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇭🇰【HK 1】=vmess,HONGKONG.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇯🇵【NHẬT】=vmess,NHAT-BAN.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇮🇳【ẤN ĐỘ】=vmess,INDIA.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+DVSTEAM🇺🇸【USA】=vmess,USA.DVSTEAM.NET,80,username=b3c7c4b4-602e-4d6f-9fa4-1bf3ff001cf6,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/DVSTEAM,ws-headers=Host:dl.kgvn.garenanow.com
+
 [Proxy Group]
-Proxy = select, Hanoi, Balance, ShopVPN, Liên quân, GenzPN,   NHKVPN, Speed4G, Fastpn, Rinnguyen, Gachcraft, 4GSinhvien, Texpn, Fast4G, Binzz, Cartport, 4GViet, AQVPN, VPNGiaRe, Sos4G
+Proxy = select, Hanoi, Balance, ShopVPN, Liên quân, GenzPN,   NHKVPN, Speed4G, Fastpn, Rinnguyen, Gachcraft, 4GSinhvien, Texpn, Fast4G, Binzz, Cartport, 4GViet, AQVPN, VPNGiaRe, Sos4G, 4GSieuRe, DVSTEAM
 Hanoi = url-test, 🌟 HN 🌟, 🇻🇳 HN 1 [GAMING], 🇻🇳 HN 2 [GAMING], 🇻🇳 HN 9 [GAMING], 🇻🇳 HN [LMHT], 🇻🇳 HCM 1 [GAMING], 🇻🇳 HCM 2 [GAMING], 🇻🇳 HCM [LMHT], 🇻🇳 HANOI 1 [TLS], 🇻🇳 HN 2 [TLS], 🇻🇳 HANOI [TLS], 🇻🇳 HN [LMHT] [TLS], url=http://www.google.com, interval=600
 Balance = load-balance, 🌟 HN 🌟, 🇻🇳 HN 1 [GAMING], 🇻🇳 HN 2 [GAMING], 🇻🇳 HN 9 [GAMING], 🇻🇳 HN [LMHT], 🇻🇳 HANOI 1 [TLS], 🇻🇳 HN 2 [TLS], 🇻🇳 HANOI [TLS], 🇻🇳 HN [LMHT] [TLS], url=http://www.google.com, interval=600
 ShopVPN = url-test,🇻🇳 Việt Nam 1 (Garena), 🇻🇳 Việt Nam 2 (Garena), 🇻🇳 Việt Nam 3 (Garena), 🇻🇳 Việt Nam 4 ( Garena), 🇻🇳 Việt Nam 5 (Garena), 🇻🇳 Việt Nam 6 (Garena), 🇻🇳 Việt Nam 7 (Garena), 🇻🇳 Việt Nam 8 (Garena), 🇻🇳 Việt Nam 9 (Garena), 🇻🇳 Việt Nam 10 (Garena), 🇻🇳 Việt Nam 11 (Garena), 🇻🇳 Việt Nam 12 (Garena), 🇻🇳 Việt Nam 13 (Garena), 🇻🇳 Việt Nam 14 (Garena), 🇻🇳 Việt Nam 15 (Garena), 🇻🇳 Việt Nam 16 (Garena), 🇻🇳 Việt Nam 17 (Garena), 🇻🇳 Việt Nam 18 (Garena), 🇻🇳 Gaming 1 (Garena), 🇻🇳 Gaming 2 (Garena), 🇸🇬 Singapore 1 ( Garena), 🇸🇬 Singapore 2 (Garena), 🇸🇬 Singapore 3 (Garena), 🇸🇬 Singapore 4 (Garena), 🇸🇬 Singapore 5 (Garena), url=http://www.google.com, interval=600
@@ -345,6 +380,13 @@ Cartport = select,  🇰🇷Korea(TikTok), 🇯🇵Japan(TikTok), 🇻🇳Viet N
 
 
 VPNGiaRe = select, 🇻🇳HN (3)( Garena ), 🇻🇳HN (6)(Garena), 🇻🇳HN (8)(Tiktok), 🇸🇬SING(1), 🇯🇵JP(1), 🇸🇬SING(2), 🇮🇳Ấn Độ(1), 🇸🇬SING(3), 🇭🇰HK(2), 🇭🇰HK(3), 🇻🇳HCM (2)(Garena), 🇻🇳HCM (1)(Gaming)(Garena), 🇻🇳HN (8)(Garena),🇻🇳HN (2)(Garena)
+
+4GSieuRe = select, 🇻🇳VN 01 [Nền IBOLERO], 🇻🇳VN 01 [Nền VNMB], 🇻🇳Hà Nội 01 [Nền Tiktok], 🇻🇳Hà Nội 02 [Nền Tiktok], 🇻🇳Hà Nội 03 [Nền Tiktok], 🇻🇳Hà Nội 04 [Nền LQ], 🇻🇳Hà Nội 05 [Nền LQ], 🇻🇳Hà Nội 06 [Nền LQ], 🇻🇳HCM 01 [Nền Tiktok], 🇻🇳HCM 02 [Nền LQ], 🇸🇬Singapore 01 [Nền Tiktok], 🇸🇬Singapore 02 [Nền Tiktok], 🇸🇬Singapore 03 [Nền LQ], 🇸🇬Singapore 04 [Nền LQ], 🇯🇵Jp Eimi Fukada 01 [Nền Tiktok], 🇯🇵Jp Aizawa Minami 02 [Nền LQ]
+
+
+DVSTEAM = select,🇻🇳【Test DDOS】, DVSTEAM🇻🇳【LQ-HN2】, DVSTEAM🇻🇳【LQ-HN3】, DVSTEAM🇸🇬【SING 1】, DVSTEAM🇸🇬【SING 3】, DVSTEAM🇸🇬【SING 5】, DVSTEAM🇸🇬【SING 6】, DVSTEAM🇸🇬【SING 7】, DVSTEAM🇭🇰【HK 1】, DVSTEAM🇯🇵【NHẬT】, DVSTEAM🇮🇳【ẤN ĐỘ】, DVSTEAM🇺🇸【USA】
+
+
 
 [Rule]
 # 自定义规则
